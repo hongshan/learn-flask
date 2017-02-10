@@ -1,0 +1,6 @@
+Flask
+Flask-PyMongo
+Flask-API
+Flask-OAuthlib
+Flask-Limiter
+redis
